@@ -1,0 +1,1 @@
+﻿global using Sol_Demo.Model;
